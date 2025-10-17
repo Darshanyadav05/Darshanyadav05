@@ -1,5 +1,5 @@
-# 💫 About Me:
-                                           Hi 👋, I'm Darshan<br>🎓 I’m a final-year Computer Science Engineering student at KNS Institute of Technology, Bangalore<br>👨‍💻 I’m currently building AI-powered educational tools like Study Buddy and VISIOLUNG.AI <br>📑 Check out my resume here – My Resume<br>💻 All of my projects are available on GitHub<br>📫 Reach out to me at darshanhyadavo5@gmail.com
+# 👋 Hi, I'm Darshan
+🎓 Final-year Computer Science Engineering student at **KNS Institute of Technology, Bangalore**  <br>👨‍💻 Currently building AI-powered educational tools like **Study Buddy** and **VISIOLUNG.AI**  <br>📑 [Check out my resume](#)  <br>💻 All of my projects are available on [GitHub](#)  <br>📫 Reach out to me at **darshanhyadavo5@gmail.com**
 
 
 # 💻 Tech Stack:
