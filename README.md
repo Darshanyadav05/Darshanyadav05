@@ -3,7 +3,6 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=darshan-cse&label=Profile%20Views&color=0e75b6&style=flat)
 
 🎓 Final-year Computer Science Engineering student at **KNS Institute of Technology, Bangalore**  <br>
-👨‍💻 Currently building AI-powered educational tools like **Study Buddy** and **VISIOLUNG.AI**  <br>
 📑 Check out my resume here – [My Resume](https://drive.google.com/file/d/17cUngU96FFIJzxTjPE53iqDYibpT_umO/view?usp=drivesdk)  <br>
 💻 All of my projects are available on [GitHub](https://github.com/Darshanyadav05)  <br>
 📫 Reach out to me at **darshanhyadavo5@gmail.com**
